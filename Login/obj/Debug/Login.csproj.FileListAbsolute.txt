@@ -1,0 +1,97 @@
+C:\Users\DT User\source\repos\Login\Login\bin\Debug\Login.exe.config
+C:\Users\DT User\source\repos\Login\Login\bin\Debug\Login.exe
+C:\Users\DT User\source\repos\Login\Login\bin\Debug\Login.pdb
+C:\Users\DT User\source\repos\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\DT User\source\repos\Login\Login\obj\Debug\Login.Login.resources
+C:\Users\DT User\source\repos\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\DT User\source\repos\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\DT User\source\repos\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\DT User\source\repos\Login\Login\obj\Debug\Login.exe
+C:\Users\DT User\source\repos\Login\Login\obj\Debug\Login.pdb
+C:\Users\DT User\source\repos\Login\Login\obj\Debug\Login.Registracija.resources
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\Login.exe.config
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\Login.exe
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\Login.pdb
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\obj\Debug\Login.KorisniciAdmin.resources
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\obj\Debug\Login.Login.resources
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\obj\Debug\Login.Registracija.resources
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\obj\Debug\Login.exe
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\obj\Debug\Login.pdb
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\obj\Debug\Login.PolozeniPredmeti.resources
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\EntityFramework.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\System.Data.SQLite.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\EntityFramework.xml
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\System.Data.SQLite.xml
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\Korisnik.db
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\EnvDTE.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\stdole.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\Microsoft.MSXML.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\obj\Debug\Login.Izvještaj.resources
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\obj\Debug\RdlCompile.cache
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\obj\Debug\RdlCompile.compiled
+C:\Users\DT User\Desktop\DRUGA GODINA\Prvi semestar\PR III\Login - Registracija\Login\obj\Debug\Login.Višenitnost.resources
